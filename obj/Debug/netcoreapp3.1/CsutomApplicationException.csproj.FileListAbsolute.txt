@@ -1,0 +1,14 @@
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\bin\Debug\netcoreapp3.1\CsutomApplicationException.exe
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\bin\Debug\netcoreapp3.1\CsutomApplicationException.deps.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\bin\Debug\netcoreapp3.1\CsutomApplicationException.runtimeconfig.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\bin\Debug\netcoreapp3.1\CsutomApplicationException.runtimeconfig.dev.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\bin\Debug\netcoreapp3.1\CsutomApplicationException.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\bin\Debug\netcoreapp3.1\CsutomApplicationException.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\CsutomApplicationException\obj\Debug\netcoreapp3.1\CsutomApplicationException.genruntimeconfig.cache
